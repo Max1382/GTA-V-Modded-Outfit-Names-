@@ -97,13 +97,13 @@ The JSON's `fits_saved_outfit_name` and `fits_experimental_63_byte_field` values
 
 ## Credit and redistribution — attribution required
 
-**This compilation and its original documentation were created by [Max1382](https://max1382.com).** The official project is hosted at **[Max1382/GTA-V-Modded-Outfit-Names](https://github.com/Max1382/GTA-V-Modded-Outfit-Names)**.
+**This compilation and its original documentation were created by [Max1382](https://max1382.com).** The official project is hosted at **[Max1382/GTA-V-Modded-Outfit-Names](https://github.com/Max1382/GTA-V-Modded-Outfit-Names-)**.
 
 If you **copy, reupload, mirror, redistribute, or adapt the original compilation or documentation**, keep clear attribution and a link back to the creator. Give credit prominently in your project's README, website, video description, or equivalent location.
 
 **Copy/paste attribution:**
 
-> GTA V PC Modded Outfit Name Image Tags — compiled by **[Max1382](https://max1382.com)**. Original project: **[https://github.com/Max1382/GTA-V-Modded-Outfit-Names](https://github.com/Max1382/GTA-V-Modded-Outfit-Names)**. Original compilation licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. Changes: [describe changes, or write "none"].
+> GTA V PC Modded Outfit Name Image Tags — compiled by **[Max1382](https://max1382.com)**. Original project: **[https://github.com/Max1382/GTA-V-Modded-Outfit-Names-](https://github.com/Max1382/GTA-V-Modded-Outfit-Names-)**. Original compilation licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. Changes: [describe changes, or write "none"].
 
 The licence applies to **Max1382’s original contributions**, such as the selection, arrangement, annotations, and documentation, to the extent those elements are copyrightable. It **does not** claim ownership of Rockstar Games / Take-Two assets, brand names, logos, textures, or independently existing technical identifiers. See [`LICENSE.md`](LICENSE.md).
 
@@ -128,4 +128,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md). Please don't mark an entry as verified
 
 ---
 
-**Created and maintained by [Max1382](https://max1382.com) — [GitHub repository](https://github.com/Max1382/GTA-V-Modded-Outfit-Names). If you reuse or redistribute this compilation, credit Max1382 and link back to the original project.**
+**Created and maintained by [Max1382](https://max1382.com) — [GitHub repository](https://github.com/Max1382/GTA-V-Modded-Outfit-Names-). If you reuse or redistribute this compilation, credit Max1382 and link back to the original project.**
